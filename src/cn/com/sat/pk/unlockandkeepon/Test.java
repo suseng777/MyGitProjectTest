@@ -12,6 +12,7 @@ public class Test extends BroadcastReceiver{
 	public void onReceive(Context context, Intent intent) {
 		// TODO Auto-generated method stub
 		Log.e(TAG_STRING, "I got a Message!!!");
+		Log.e(TAG_STRING, "I got a Message!!!");
 	}
 
 }
